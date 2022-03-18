@@ -1,4 +1,4 @@
-# iot-arduino-counter1
+# iot-arduino-counter
 
 Target system: Arduino Uno
 
@@ -10,4 +10,4 @@ Required VS Code extensions:
 Optional VS Code extensions:
 - C/C++
 
-See allso: https://www.schaerens.ch/iot-arduino-counter1
+See allso: https://www.schaerens.ch/iot-arduino-counter
