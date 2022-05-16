@@ -1,13 +1,9 @@
 # iot-arduino-counter
 
+Use ATmega328P timer/counter to count external events (example for Arduino Uno).
+
 Target system: Arduino Uno
 
-MCU: ATmega 328P
+Development environment: Visual Studio Code with PlatformIO.
 
-Required VS Code extensions:
-- PlatformIO
-
-Optional VS Code extensions:
-- C/C++
-
-See allso: https://www.schaerens.ch/iot-arduino-counter
+Documentation: https://www.schaerens.ch/iot-arduino-counter
